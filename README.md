@@ -2,7 +2,8 @@
 
 ## 사용한 프롬프트 공유 링크
 
-## - Google AI Studio 프롬프트 공유 링크: [여기에 링크 입력](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221dwV9Hs2AOG6piUMzEdLdYL17z3PY3aXD%22%5D,%22action%22:%22open%22,%22userId%22:%22102711822520177825775%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+## - Google AI Studio 프롬프트 공유 링크: (https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221dwV9Hs2AOG6piUMzEdLdYL17z3PY3aXD%22%5D,%22action%22:%22open%22,%22userId%22:%22102711822520177825775%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
 ## 데이터와 클린징 과정
 
 본 프로젝트는 서울시 버스 관련 공공데이터 3개를 사용하였다.
